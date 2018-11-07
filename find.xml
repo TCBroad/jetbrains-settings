@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.*</mask>
+    <mask>*.styl</mask>
+    <mask>*.csproj</mask>
+    <mask>*.feature</mask>
+    <mask>*.production.*</mask>
+    <mask>*.cshtml</mask>
+    <mask>*.config</mask>
+    <mask>*.cs</mask>
+    <mask>*.vue</mask>
+    <mask>*.js</mask>
+    <mask>*.ts</mask>
+  </component>
+</application>
