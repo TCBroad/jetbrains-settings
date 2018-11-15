@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Solution" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,11 +19,11 @@
     <mask>*.csproj</mask>
     <mask>*.feature</mask>
     <mask>*.production.*</mask>
-    <mask>*.cshtml</mask>
     <mask>*.config</mask>
     <mask>*.cs</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
