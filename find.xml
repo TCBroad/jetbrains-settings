@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.config" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,12 +20,12 @@
     <mask>*.styl</mask>
     <mask>*.feature</mask>
     <mask>*.production.*</mask>
-    <mask>*.config</mask>
     <mask>*.cs</mask>
     <mask>*.ts</mask>
     <mask>*.cshtml</mask>
     <mask>*.vue</mask>
     <mask>*.csproj</mask>
     <mask>*.js</mask>
+    <mask>*.config</mask>
   </component>
 </application>
