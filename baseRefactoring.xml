@@ -3,4 +3,7 @@
     <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
     <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
   </component>
+  <component name="JSRefactoringSettings">
+    <option name="INLINE_THIS" value="true" />
+  </component>
 </application>
