@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -17,12 +15,12 @@
     <mask>*.styl</mask>
     <mask>*.feature</mask>
     <mask>*.production.*</mask>
-    <mask>*.cs</mask>
     <mask>*.ts</mask>
     <mask>*.cshtml</mask>
     <mask>*.csproj</mask>
     <mask>*.js</mask>
     <mask>*.config</mask>
     <mask>*.vue</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
