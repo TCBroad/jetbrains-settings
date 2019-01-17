@@ -16,11 +16,11 @@
     <mask>*.feature</mask>
     <mask>*.production.*</mask>
     <mask>*.ts</mask>
-    <mask>*.cshtml</mask>
     <mask>*.csproj</mask>
     <mask>*.js</mask>
     <mask>*.config</mask>
     <mask>*.vue</mask>
     <mask>*.cs</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
