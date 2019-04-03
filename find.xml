@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Genius.Recruiters'" />
-    <option name="defaultScopeName" value="Project 'Genius.Recruiters'" />
+    <option name="customScope" value="Project 'Genius.Employers.Web'" />
+    <option name="defaultScopeName" value="Project 'Genius.Employers.Web'" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Genius.Recruiters'" />
+    <option name="SEARCH_SCOPE" value="Project 'Genius.Employers.Web'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
