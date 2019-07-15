@@ -22,7 +22,7 @@
     <mask>*.cshtml</mask>
     <mask>*.css</mask>
     <mask>*.config</mask>
-    <mask>*.cs</mask>
     <mask>*.vue</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
