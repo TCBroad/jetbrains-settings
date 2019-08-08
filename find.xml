@@ -7,6 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,5 +27,6 @@
     <mask>*.config</mask>
     <mask>*.cs</mask>
     <mask>*.vue</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
