@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +20,6 @@
     <mask>*.production.*</mask>
     <mask>*.csproj</mask>
     <mask>*.css</mask>
-    <mask>*.styl</mask>
     <mask>*.sql</mask>
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
@@ -28,5 +27,6 @@
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.vue</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
