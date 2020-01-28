@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Genius.Crm.Api'" />
-    <option name="defaultScopeName" value="Project 'Genius.Crm.Api'" />
+    <option name="customScope" value="Project 'Genius.Crm.Web'" />
+    <option name="defaultScopeName" value="Project 'Genius.Crm.Web'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Genius.Crm.Api'" />
+    <option name="SEARCH_SCOPE" value="Project 'Genius.Crm.Web'" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,7 +26,7 @@
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.styl</mask>
-    <mask>*.vue</mask>
     <mask>*.ts</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
