@@ -25,7 +25,7 @@
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.styl</mask>
-    <mask>*.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
