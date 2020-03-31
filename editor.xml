@@ -24,6 +24,7 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
+  <component name="LiveEditOptions" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
