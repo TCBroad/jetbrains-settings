@@ -8,7 +8,6 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="editAndContinueEnabled" value="false" />
-          <option name="enableExternalSourceDebug" value="false" />
         </configuration>
       </debugger>
       <debugger id="oracle">
