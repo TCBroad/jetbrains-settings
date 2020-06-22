@@ -24,7 +24,7 @@
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.sql</mask>
-    <mask>*.cs</mask>
     <mask>*.json</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
