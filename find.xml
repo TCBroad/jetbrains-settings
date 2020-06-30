@@ -17,7 +17,6 @@
     <mask>*.*</mask>
     <mask>*.feature</mask>
     <mask>*.production.*</mask>
-    <mask>*.csproj</mask>
     <mask>*.css</mask>
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
@@ -28,5 +27,6 @@
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.cs</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
