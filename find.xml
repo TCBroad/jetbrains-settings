@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'Genius.Crm.Web'" />
+    <option name="defaultScopeName" value="Project 'Genius.Crm.Web'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Project 'Genius.Crm.Web'" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,11 +23,11 @@
     <mask>*.cshtml</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.csproj</mask>
     <mask>*.cs</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
