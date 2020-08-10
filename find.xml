@@ -17,16 +17,17 @@
     <mask>*.*</mask>
     <mask>*.feature</mask>
     <mask>*.production.*</mask>
-    <mask>*.csproj</mask>
     <mask>*.css</mask>
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
     <mask>*.styl</mask>
-    <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.vue</mask>
-    <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
+    <mask>*.sql</mask>
     <mask>*.cs</mask>
+    <mask>package.json</mask>
+    <mask>*.csproj</mask>
+    <mask>*.js</mask>
   </component>
 </application>
