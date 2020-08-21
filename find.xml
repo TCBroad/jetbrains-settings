@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +22,6 @@
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
     <mask>*.styl</mask>
-    <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>*.cs</mask>
@@ -29,5 +29,6 @@
     <mask>*.csproj</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.json</mask>
   </component>
 </application>
