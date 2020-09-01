@@ -22,10 +22,10 @@
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>package.json</mask>
-    <mask>*.csproj</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.json</mask>
     <mask>*.cs</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
