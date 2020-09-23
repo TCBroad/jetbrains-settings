@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Genius.StyleGuide'" />
-    <option name="defaultScopeName" value="Project 'Genius.StyleGuide'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Genius.StyleGuide'" />
-    <option name="FILE_MASK" value="*.ts, *.js, *.vue" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +21,6 @@
     <mask>*.css</mask>
     <mask>*.config</mask>
     <mask>*.cshtml</mask>
-    <mask>*.styl</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>package.json</mask>
@@ -32,5 +31,6 @@
     <mask>*.ts, *.js</mask>
     <mask>*.vue</mask>
     <mask>*.ts, *.js, *.vue</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
