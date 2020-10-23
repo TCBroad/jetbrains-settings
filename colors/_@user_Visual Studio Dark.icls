@@ -1,21 +1,16 @@
 <scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-11-21T18:34:11</property>
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2020-10-23T10:22:13</property>
+    <property name="modified">2020-10-23T11:00:57</property>
     <property name="originalScheme">Visual Studio Dark</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="HTML_CODE">
       <value />
