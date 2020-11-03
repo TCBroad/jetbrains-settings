@@ -2880,7 +2880,7 @@
                 <map>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="buildout-python">
