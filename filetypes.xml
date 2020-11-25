@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".nuke" type="PLAIN_TEXT" />
       <mapping pattern="docker-entrypoint" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
