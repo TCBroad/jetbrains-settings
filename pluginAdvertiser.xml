@@ -2966,6 +2966,11 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="NukeBuildTarget">
+                    <value>
+                      <FeaturePluginData displayName="NUKE" pluginName="NUKE Support" pluginId="com.intellij.rider.plugins.nuke" />
+                    </value>
+                  </entry>
                   <entry key="PowerShellRunType">
                     <value>
                       <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
