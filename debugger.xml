@@ -1,6 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
+      <option name="showLibraryStackFrames" value="false" />
       <option name="valueLookupDelay" value="150" />
     </data-views>
     <general />
@@ -10,14 +11,14 @@
           <option name="editAndContinueEnabled" value="false" />
         </configuration>
       </debugger>
-      <debugger id="oracle">
-        <configuration>
-          <option name="steppingPauseAtBegin" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
         </configuration>
       </debugger>
     </debuggers>
