@@ -8,6 +8,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="editAndContinueEnabled" value="false" />
         </configuration>
       </debugger>
