@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Monsterment.Generator'" />
-    <option name="defaultScopeName" value="Project 'Monsterment.Generator'" />
-    <option name="SEARCH_SCOPE" value="Project 'Monsterment.Generator'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
