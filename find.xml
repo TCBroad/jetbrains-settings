@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,12 +23,12 @@
     <mask>*.sql</mask>
     <mask>routes.ts</mask>
     <mask>nlog.*.config</mask>
-    <mask>*.json</mask>
     <mask>*.ts, *.js, *.vue</mask>
     <mask>*.vue</mask>
     <mask>*.ts, *.js</mask>
     <mask>*.ts</mask>
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.json</mask>
   </component>
 </application>
