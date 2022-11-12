@@ -18,6 +18,7 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
