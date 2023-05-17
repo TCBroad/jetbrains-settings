@@ -57,11 +57,13 @@
         </CustomActionModel>
       </list>
     </option>
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
         <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.SwapAction" />
+        <option name="description" value="Depending on what is selected or how many carets there are" />
         <option name="modelClass" value="osmedile.intellij.stringmanip.swap.SwapActionExecutor" />
         <option name="modelData" value="&lt;SwapActionExecutor /&gt;" />
+        <option name="textWithMnemonic" value="Swap Characters/Selections/Lines/Tokens" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
